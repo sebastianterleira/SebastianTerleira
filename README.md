@@ -70,8 +70,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=SebastianTerleira&show_icons=true&theme=gotham" alt="Sebastian Top Languages" height="170px" width="450px"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sebastian Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTerleira&langs_count=8&layout=compact&theme=gotham" height="167px" width="450px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=SebastianTerleira&show_icons=true&theme=gotham" alt="Sebastian Top Languages" height="170px" width="430px"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sebastian Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTerleira&langs_count=8&layout=compact&theme=gotham" height="167px" width="430px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>

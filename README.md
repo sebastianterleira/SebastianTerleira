@@ -82,13 +82,14 @@
   <br/><br/><br/><br/><br/><br/><br/><br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-<br/>
-
-<img aling="center" src="src/ironman.png">
+<!-- <br/> -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sebastian's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=SebastianTerleira&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sebastian's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=SebastianTerleira&theme=react-dark" /></a>
+<br/>
+
+<img aling="center" src="src/ironman.png">
 
 ## 🚀 𝙄𝙣𝙨𝙥𝙞𝙧𝙖𝙩𝙞𝙤𝙣𝙨: 
  * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)

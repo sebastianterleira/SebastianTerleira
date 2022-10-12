@@ -90,3 +90,4 @@
  * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
  * [Markdomw Badges Stats](https://github.com/Ileriayo/markdown-badges)
  * [Badges](https://img.shields.io/)
+ * [Beautify Github Profile](https://github.com/rzashakeri/beautify-github-profile?ref=producthunt#-where-do-we-get-ideas-)

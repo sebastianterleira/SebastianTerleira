@@ -10,7 +10,6 @@
   <a href="https://github.com/SebastianTerleira/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sebastian streak" src="https://streak-stats.demolab.com/?user=SebastianTerleira&theme=gotham"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -75,8 +74,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=SebastianTerleira&show_icons=true&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"" alt="Sebastian Top Languages" height="192px"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTerleira&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="350px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=SebastianTerleira&show_icons=true&theme=gotham" alt="Sebastian Top Languages" height="192px"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sebastian Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTerleira&langs_count=8&layout=compact&theme=gotham" height="192px" width="350px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>

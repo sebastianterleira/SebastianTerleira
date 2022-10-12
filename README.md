@@ -19,8 +19,9 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming and markup languages
 
+### 👨‍💻 Programming and markup languages
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <p>
     <a href="https://github.com/search?q=user%3ASebastianTerleira+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ASebastianTerleira+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>

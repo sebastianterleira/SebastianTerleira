@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-## 🔥 Streak stats
+## 🔥 𝙎𝙩𝙧𝙚𝙖𝙠 𝙨𝙩𝙖𝙩𝙨
 
 <!-- GitHub Readme Streak Stats - https://github.com/SebastianTerleira/github-readme-streak-stats -->
 <p align="center">
@@ -17,7 +17,7 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-## 🛠️ My favorite tools
+## 🛠️ 𝙈𝙮 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙩𝙤𝙤𝙡𝙨
 
 
 ### 👨‍💻 Programming and markup languages
@@ -69,7 +69,7 @@
    <a href="#"><img alt="Rubocop" src="https://img.shields.io/badge/-Rubocop-1c0d02.svg?logo=rubocop&logoColor=white&style=flat%22"></a>
 </p>
 
-## 📊 Github stats
+## 📊 𝙂𝙞𝙩𝙝𝙪𝙗 𝙨𝙩𝙖𝙩𝙨
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
@@ -87,7 +87,7 @@
 
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sebastian's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=SebastianTerleira&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
-### 🚀 Inspirations:
+## 🚀 𝙄𝙣𝙨𝙥𝙞𝙧𝙖𝙩𝙞𝙤𝙣𝙨: 
  * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
  * [Markdomw Badges Stats](https://github.com/Ileriayo/markdown-badges)
  * [Badges](https://img.shields.io/)

@@ -97,3 +97,4 @@
  * [Badges](https://img.shields.io/)
  * [Beautify Github Profile](https://github.com/rzashakeri/beautify-github-profile?ref=producthunt#-where-do-we-get-ideas-)
  * [Readme Ascii](https://github.com/ajmeese7/readme-ascii)
+ * [Readme Typing Svg](https://github.com/DenverCoder1/readme-typing-svg)

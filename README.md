@@ -88,7 +88,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sebastian's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=SebastianTerleira&theme=react-dark" /></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SebastianTerleira&bg_color=181617&color=1bbada&line=2f566a&point=18a0cd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 <img aling="center" src="src/ironman.png">

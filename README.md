@@ -88,7 +88,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SebastianTerleira&bg_color=181617&color=1bbada&line=2f566a&point=18a0cd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SebastianTerleira&bg_color=0c0e0e&color=633681&line=486065&point=4269c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 <img aling="center" src="src/ironman.png">

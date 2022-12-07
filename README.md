@@ -1,5 +1,5 @@
 <a href="https://www.codewars.com/users/SebastianTerleira">
-<img align="righta" src="https://www.codewars.com/users/SebastianTerleira/badges/micro"></br>
+<img align="right" src="https://www.codewars.com/users/SebastianTerleira/badges/micro"></br>
 </a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SebastianTerleira.SebastianTerleira">
 

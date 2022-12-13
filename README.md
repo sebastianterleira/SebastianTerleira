@@ -2,6 +2,10 @@
 <img align="right" src="https://www.codewars.com/users/SebastianTerleira/badges/micro"></br>
 </a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SebastianTerleira.SebastianTerleira">
+<label>Social 🌐</label><br/>
+<a align="left" href="https://www.linkedin.com/in/sebastian-terleira-8773a4247/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=LinkedIn&logoColor=white"></a>
+
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

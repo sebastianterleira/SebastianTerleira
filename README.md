@@ -1,18 +1,17 @@
-<a href="https://www.codewars.com/users/SebastianTerleira">
-<img align="right" src="https://www.codewars.com/users/SebastianTerleira/badges/micro"></br>
-</a>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SebastianTerleira.SebastianTerleira">
-
-<label>Contact 🌐</label><br/>
-<a align="left" href="https://www.linkedin.com/in/sebastian-terleira-8773a4247/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=LinkedIn&logoColor=white"></a>
-
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sebastian....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/sebastianterleira" alt="profile views"> | 
+  <a href="https://twitter.com/intent/follow?screen_name=SebastianTerlei&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/SebastianTerlei?label=%40SebastianTerlei&style=social"></a>  | 
+  <a href="https://www.linkedin.com/in/sebastian-terleira-8773a4247/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=LinkedIn&logoColor=white"></a> | 
+  <a href="https://www.codewars.com/users/SebastianTerleira"><img src="https://www.codewars.com/users/SebastianTerleira/badges/micro"></br></a> 
+<a href="https://sebastianterdev.netlify.app">Personal Blog</a> |
+<a href="https://twitter.com/intent/follow?screen_name=SebastianTerlei&tw_p=followbutton">Twitter</a> |
+</p>
 
 ## 🔥 𝙎𝙩𝙧𝙚𝙖𝙠 𝙨𝙩𝙖𝙩𝙨
 

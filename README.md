@@ -13,7 +13,7 @@
 <a href="https://twitter.com/intent/follow?screen_name=SebastianTerlei&tw_p=followbutton">Twitter</a> |
 </p>
 
-## 🔥 𝙎𝙩𝙧𝙚𝙖𝙠 𝙨𝙩𝙖𝙩𝙨
+## 🔥 𝙎𝙩𝙧𝙚𝙖𝙠 𝙨𝙩𝙖𝙩𝙨d
 
 <!-- GitHub Readme Streak Stats - https://github.com/SebastianTerleira/github-readme-streak-stats -->
 <p align="center">

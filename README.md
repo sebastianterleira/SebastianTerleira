@@ -11,7 +11,7 @@
   <a href="https://www.codewars.com/users/SebastianTerleira"><img src="https://www.codewars.com/users/SebastianTerleira/badges/micro"></br></a> 
 <a href="https://sebastianterdev.netlify.app">Personal Blog</a> |
 <a href="https://twitter.com/intent/follow?screen_name=SebastianTerlei&tw_p=followbutton">Twitter</a> |
-</p>a
+</p>
 
 ## 🔥 𝙎𝙩𝙧𝙚𝙖𝙠 𝙨𝙩𝙖𝙩𝙨
 

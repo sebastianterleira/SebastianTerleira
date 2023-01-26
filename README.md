@@ -41,6 +41,7 @@
 
 <p>
     <a href="https://github.com/search?q=user%3ASebastianTerleira+language%3Asvg"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=white&style=flat%22"></a>
+      <a href="https://github.com/search?q=user%3ASebastianTerleira+language%3Asvg"><img alt="React" src="https://img.shields.io/badge/-Go-1572B6.svg?logo=go&logoColor=white&style=flat%22"></a>
 </p>
 
 ### 🧰 Frameworks and libraries

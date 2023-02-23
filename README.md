@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/sebastian-terleira-8773a4247/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=LinkedIn&logoColor=white"></a> | 
   <a href="https://www.codewars.com/users/SebastianTerleira"><img src="https://www.codewars.com/users/SebastianTerleira/badges/micro"></br></a> 
 <a href="https://sebastianterdev.netlify.app">Personal Blog</a> |
-<a href="https://twitter.com/intent/follow?screen_name=SebastianTerlei&tw_p=followbutton">Twitter</a> |
+<a href="https://twitter.com/intent/follow?screen_name=SebastianTerlei&tw_p=followbutton">Twitter</a> | <a href="https://st-portafolio-dev.netlify.app/">Portafolio</a> 
 </p>
 
 ## 🔥 𝙎𝙩𝙧𝙚𝙖𝙠 𝙨𝙩𝙖𝙩𝙨

@@ -86,7 +86,7 @@
   <br/>
   <div aling="center">
   <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=SebastianTerleira&show_icons=true&theme=react&border=61dafb&hide_border=true" alt="Sebastian Top Languages" />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="390px" alt="Sebastian Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTerleira&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="330px" alt="Sebastian Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTerleira&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" /></a>
   </div>
   <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

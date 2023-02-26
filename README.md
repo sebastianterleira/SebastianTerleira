@@ -85,7 +85,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <div aling="center">
-  <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=SebastianTerleira&show_icons=true&theme=react&border=61dafb&hide_border=true" alt="Sebastian Top Languages" />
+  <img align="left" height="200px" width="390px" src="https://github-readme-stats.vercel.app/api?username=SebastianTerleira&show_icons=true&theme=react&border=61dafb&hide_border=true" alt="Sebastian Top Languages" />
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="390px" alt="Sebastian Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTerleira&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" /></a>
   </div>
   <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>

@@ -5,7 +5,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/sebastianterleira" alt="profile views"> | 
   <a href="https://twitter.com/intent/follow?screen_name=SebastianTerlei&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/SebastianTerlei?label=%40SebastianTerlei&style=social"></a>  | 
   <a href="https://www.linkedin.com/in/sebastian-terleira-8773a4247/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=LinkedIn&logoColor=white"></a> | 
   <a href="https://www.codewars.com/users/SebastianTerleira"><img src="https://www.codewars.com/users/SebastianTerleira/badges/micro"></br></a> 

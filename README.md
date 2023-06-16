@@ -59,8 +59,7 @@
 ### 🌱 I’m currently learning
 
 <p>
-  <a href="https://github.com/search?q=user%3ASebastianTerleira+language%3Asvg"><img alt="Sass" src="https://img.shields.io/badge/-Sass-4A154B.svg?logo=sass&logoColor=white&style=flat%22"></a>
-    <a href="https://github.com/search?q=user%3ASebastianTerleira+language%3Asvg"><img alt="Sass" src="https://img.shields.io/badge/-TailwindCSS-0078D6.svg?logo=tailwindcss&logoColor=white&style=flat%22"></a>
+ 
 </p>
 
 

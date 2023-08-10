@@ -32,15 +32,6 @@
   <a href="https://github.com/sebastianterleira?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-## 🔥 𝙎𝙩𝙧𝙚𝙖𝙠 𝙨𝙩𝙖𝙩𝙨
-
-<!-- GitHub Readme Streak Stats - https://github.com/SebastianTerleira/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/SebastianTerleira/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sebastian streak" src="https://streak-stats.demolab.com/?user=SebastianTerleira&theme=react&border=61dafb&hide_border=true"/>
-  </a>
-</p>
-
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🛠️ 𝙈𝙮 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙩𝙤𝙤𝙡𝙨
@@ -94,6 +85,15 @@
    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
    <a href="#"><img alt="WSL" src="https://img.shields.io/badge/-WSL-4D4D4D.svg?logo=windowsterminal&logoColor=white&style=flat%22"></a>
    <a href="#"><img alt="Rubocop" src="https://img.shields.io/badge/-Rubocop-1c0d02.svg?logo=rubocop&logoColor=white&style=flat%22"></a>
+</p>
+
+## 🔥 𝙎𝙩𝙧𝙚𝙖𝙠 𝙨𝙩𝙖𝙩𝙨
+
+<!-- GitHub Readme Streak Stats - https://github.com/SebastianTerleira/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/SebastianTerleira/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sebastian streak" src="https://streak-stats.demolab.com/?user=SebastianTerleira&theme=react&border=61dafb&hide_border=true"/>
+  </a>
 </p>
 
 ## 📊 𝙂𝙞𝙩𝙝𝙪𝙗 𝙨𝙩𝙖𝙩𝙨

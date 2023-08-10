@@ -87,6 +87,15 @@
    <a href="#"><img alt="Rubocop" src="https://img.shields.io/badge/-Rubocop-1c0d02.svg?logo=rubocop&logoColor=white&style=flat%22"></a>
 </p>
 
+## 🔥 𝙎𝙩𝙧𝙚𝙖𝙠 𝙨𝙩𝙖𝙩𝙨
+
+<!-- GitHub Readme Streak Stats - https://github.com/SebastianTerleira/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/SebastianTerleira/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sebastian streak" src="https://streak-stats.demolab.com/?user=SebastianTerleira&theme=react&border=61dafb&hide_border=true"/>
+  </a>
+</p>
+
 ## 📊 𝙂𝙞𝙩𝙝𝙪𝙗 𝙨𝙩𝙖𝙩𝙨
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -101,15 +110,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 <!-- <br/> -->
-
-## 🔥 𝙎𝙩𝙧𝙚𝙖𝙠 𝙨𝙩𝙖𝙩𝙨
-
-<!-- GitHub Readme Streak Stats - https://github.com/SebastianTerleira/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/SebastianTerleira/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sebastian streak" src="https://streak-stats.demolab.com/?user=SebastianTerleira&theme=react&border=61dafb&hide_border=true"/>
-  </a>
-</p>
 
 <img aling="center" src="src/ironman.png">
 

@@ -60,6 +60,7 @@
   <a href="https://github.com/search?q=user%3ASebastianTerleira+language%3Asvg"><img alt="Ruby on rails" src="https://img.shields.io/badge/-Ruby%20on%20Rails-191919.svg?logo=rubyonrails&logoColor=CC0000&style=flat%22"></a>
     <a href="https://github.com/search?q=user%3ASebastianTerleira+language%3Asvg"><img alt="RubyGems" src="https://img.shields.io/badge/-RubyGems-CC0000.svg?logo=rubygems&logoColor=E9573F&style=flat%22"></a>
     <a href="https://github.com/search?q=user%3ASebastianTerleira+language%3Asvg"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=flat%22"></a>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
     <a href="https://github.com/search?q=user%3ASebastianTerleira+language%3Asvg"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=white&style=flat%22"></a>
 </p>
 

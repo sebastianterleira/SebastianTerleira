@@ -67,6 +67,7 @@
 ### 🗄️ Databases and cloud hosting
 
 <p>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=#008F39" />
    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white&style=flat%22"></a>
    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7.svg?logo=netlify&logoColor=white&style=flat%22"></a>
    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>

@@ -114,11 +114,3 @@
 <!-- <br/> -->
 
 <img aling="center" src="src/ironman.png">
-
-## 🚀 𝙄𝙣𝙨𝙥𝙞𝙧𝙖𝙩𝙞𝙤𝙣𝙨: 
- * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
- * [Markdomw Badges Stats](https://github.com/Ileriayo/markdown-badges)
- * [Badges](https://img.shields.io/)
- * [Beautify Github Profile](https://github.com/rzashakeri/beautify-github-profile?ref=producthunt#-where-do-we-get-ideas-)
- * [Readme Ascii](https://github.com/ajmeese7/readme-ascii)
- * [Readme Typing Svg](https://github.com/DenverCoder1/readme-typing-svg)

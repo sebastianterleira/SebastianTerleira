@@ -87,5 +87,3 @@
    <a href="#"><img alt="WSL" src="https://img.shields.io/badge/-WSL-4D4D4D.svg?logo=windowsterminal&logoColor=white&style=flat%22"></a>
    <a href="#"><img alt="Rubocop" src="https://img.shields.io/badge/-Rubocop-1c0d02.svg?logo=rubocop&logoColor=white&style=flat%22"></a>
 </p>
-
-<img aling="center" src="src/ironman.png">
